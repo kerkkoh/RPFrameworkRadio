@@ -4,6 +4,8 @@ Radio for vehicles via NRadio extension https://github.com/maca134/arma-nradio
 
 This failed final tests and didn't fetch stream files quickly enough for it to be functional, but it's something.
 
+RPFramework: https://github.com/RPFramework/RPFramework
+
 # Installation
 
 1. Download all files and read the LICENSE.txt file for the license
